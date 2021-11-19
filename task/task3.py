@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+
 def multi():
     number = int(input("Введите число: "))
     result = 1
